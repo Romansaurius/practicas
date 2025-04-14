@@ -1,3 +1,0 @@
-ctrl + ñ Para abrir el terminal (Verificar estar parados sobre la carpeta clonada)
-git config --global user.name "nombreusuariogithub" para registrar nuestro nombre de usuario de gitHub
-git config --global user.email "nombreusuariogithub@gmail.com"
